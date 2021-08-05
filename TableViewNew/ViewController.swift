@@ -9,9 +9,22 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let todos = [
+        Todo(title: "Make vanilla... "),
+        Todo(title: "Put pudding... "),
+        Todo(title: "Eat it in... ")
+    
+    ]
+    
+    
+    
+    
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+     
     }
 
 
